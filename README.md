@@ -23,9 +23,9 @@ But please have in mind that some of them was created long time ago and could be
 - [https://zsp14gliwice.pl/pm4/](https://zsp14gliwice.pl/pm4/)
 - [https://twojezabrze.pl/](https://twojezabrze.pl/)
 - [https://kochamyskosy.pl/](https://kochamyskosy.pl/)
+- [https://zubekbud.pl/](https://zubekbud.pl/)
+- [https://miastobytom.pl/](https://miastobytom.pl/)
 - [https://kajabarto.com/](https://kajabarto.com/) (work in progress, multilangual ecommerce website)
-- [https://zubekbud.pl/](https://zubekbud.pl/) (work in progress, new website will be moved to the production at the end of November)
-- [https://miastobytom.pl/](https://miastobytom.pl/) (work in progress, currently filling with content)
 - [http://bigbang.pl//](http://bigbang.pl/) (Planned for 2024)
 - ... And more 🥳
 
