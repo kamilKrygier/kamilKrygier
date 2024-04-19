@@ -10,6 +10,7 @@ Also remember to check my repositories and few websites created by me. <br>
 But please have in mind that some of them was created long time ago and could be changed by their owners :)
 
 ## List of websites:
+- [https://weddingdays.sixsilver.pl/](https://weddingdays.sixsilver.pl/)
 - [https://dzisiajwgliwicach.pl/](https://dzisiajwgliwicach.pl/) (one of the region's largest news portals)
 - [https://gliwickietargislubne.pl/](https://gliwickietargislubne.pl/)
 - [https://soniaenpolonia.com/](https://soniaenpolonia.com/)
